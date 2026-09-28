@@ -1,11 +1,10 @@
 <p align="center">
   <img 
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"
-    width="450"
-    alt="Girl Coding on Laptop"
+    src="./coding-animation.gif"
+    width="500"
+    alt="Black and White Girl Coding"
   />
 </p>
-
 
 
 
