@@ -1,16 +1,12 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif" 
-    alt="Coding Animation"
-    width="400"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"
+    width="450"
+    alt="Girl Coding on Laptop"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vindya Subodani</h1>
 
-<h3 align="center">
-  IT Undergraduate | Aspiring Software Developer 🚀
-</h3>
 
 
 <h1 align="center">Hi 👋, I'm Vindya Subodani</h1>
