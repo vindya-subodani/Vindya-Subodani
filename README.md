@@ -1,3 +1,18 @@
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif" 
+    alt="Coding Animation"
+    width="400"
+  />
+</p>
+
+<h1 align="center">Hi 👋, I'm Vindya Subodani</h1>
+
+<h3 align="center">
+  IT Undergraduate | Aspiring Software Developer 🚀
+</h3>
+
+
 <h1 align="center">Hi 👋, I'm Vindya Subodani</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
