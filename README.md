@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vindya-subodani&label=Profile%20views&color=0e75b6&style=flat" alt="vindya-subodani" /> </p>
 
-- 📫 How to reach me **vindayasubodani0@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
