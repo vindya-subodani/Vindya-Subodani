@@ -26,14 +26,12 @@ passionate about software and web development.
 - 🌱 Continuously learning new technologies
 - 🚀 Building projects to develop my skills
 - 📚 Always learning, building and growing
-
-> **“Learn. Build. Improve. Repeat. 🚀”**
-
 </td>
 
 <td width="35%" align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="250">
+<img src="- JavaScript is the Boss
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="250">
 
 </td>
 </tr>
