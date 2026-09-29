@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./vindya_girl_coding_animation.gif" width="700">
 </p>
-``` [❶](code://python)
 
 <h1 align="center">Hi 👋, I'm Vindya Subodani</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
