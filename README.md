@@ -43,32 +43,14 @@ passionate about software and web development.
 
 ### 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+
 
 <img src="https://github-stats-extended.vercel.app/api?username=vindya-subodani&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=vindya-subodani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vindya-subodani&theme=tokyonight&layout=pie&hide_border=true" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/vindya-subodani/vindya-subodani/blob/output/github-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 
 <h3 align="left">Languages and Tools:</h3>
