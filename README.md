@@ -12,7 +12,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vindya-subodani&label=Profile%20views&color=0e75b6&style=flat" alt="vindya-subodani" /> </p>
 
-<hr>
+---
 
 ### 👩‍💻 About Me
 
@@ -38,8 +38,7 @@ passionate about software and web development.
 </tr>
 </table>
 
-<br>
-<hr>
+---
 
 ### 📊 GitHub Stats
 
@@ -57,13 +56,11 @@ passionate about software and web development.
   </a>
 </p>
 
-
-<br>
-<hr>
+---
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/vindaya-subodani" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
