@@ -57,7 +57,7 @@ passionate about software and web development.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,c,cpp,java,js,html,css,bootstrap,mysql,photoshop&theme=dark" alt="My Skills" /> 
-    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20"/> Exploring Android Development
+    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/> 
   </a>
 </p>
 
