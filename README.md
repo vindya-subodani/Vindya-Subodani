@@ -10,6 +10,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vindya-subodani&label=Profile%20views&color=0e75b6&style=flat" alt="vindya-subodani" /> </p>
 
 
+<hr>
+
 ## 👩‍💻 About Me
 
 <table>
