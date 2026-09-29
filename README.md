@@ -1,7 +1,9 @@
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" 
-    width="500" />
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"
+    width="450"
+    alt="Girl Coding on Laptop"
+  />
 </p>
 
 
