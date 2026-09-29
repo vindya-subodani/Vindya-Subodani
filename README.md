@@ -57,8 +57,6 @@ passionate about software and web development.
   </a>
 </p>
 
----
-
 
 <br>
 <hr>
